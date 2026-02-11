@@ -1,4 +1,4 @@
-# ⚡ Regenerative Braking System Using DC Motor
+# ⚡ Regenerative Braking System Using For Ev Vehicle using DC Motor
 
 ![Project Type](https://img.shields.io/badge/Project-Type%20Engineering-blue)
 ![Domain](https://img.shields.io/badge/Domain-Electric%20Vehicles-green)
